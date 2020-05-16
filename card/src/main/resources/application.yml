@@ -1,0 +1,5 @@
+spring:
+  application:
+    membercard
+  profiles:
+    active: db,dev
